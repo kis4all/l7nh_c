@@ -1,0 +1,36 @@
+# Build directories
+build/
+Release/
+Debug/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# IDE-specific files  
+.vs/
+.vscode/
+*.user
+*.sln.docstates
+
+# Windows executables/libraries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+
+# CMake files
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CMakeCache.txt
+
+# Temporary files
+*.tmp
+*.log
+
+# Third-party libraries
+SOEM/
