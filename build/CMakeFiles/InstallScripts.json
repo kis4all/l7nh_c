@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/works/ethercat/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
