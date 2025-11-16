@@ -79,7 +79,7 @@ events:
       The output was:
       0
       msbuild 踰꾩쟾 17.14.23+b0019275e(.NET Framework??
-      鍮뚮뱶 ?쒖옉: 2025-11-16 ?ㅼ쟾 7:22:47
+      鍮뚮뱶 ?쒖옉: 2025-11-16 ?ㅼ쟾 9:23:29
       
       1 ?몃뱶??"C:\\works\\ethercat\\build\\CMakeFiles\\4.1.2\\CompilerIdC\\CompilerIdC.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           寃쎄퀬 0媛?
           ?ㅻ쪟 0媛?
       
-      寃쎄낵 ?쒓컙: 00:00:00.56
+      寃쎄낵 ?쒓컙: 00:00:00.88
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -934,8 +934,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-w93963"
-      binary: "C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-w93963"
+      source: "C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-1hct5f"
+      binary: "C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-1hct5f"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -944,40 +944,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-w93963'
+        Change Dir: 'C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-1hct5f'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_421c6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5c676.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         msbuild 踰꾩쟾 17.14.23+b0019275e(.NET Framework??
-        鍮뚮뱶 ?쒖옉: 2025-11-16 ?ㅼ쟾 7:22:48
+        鍮뚮뱶 ?쒖옉: 2025-11-16 ?ㅼ쟾 9:23:30
         
-        1 ?몃뱶??"C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w93963\\cmTC_421c6.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        1 ?몃뱶??"C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1hct5f\\cmTC_5c676.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
         PrepareForBuild:
-          "cmTC_421c6.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_5c676.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
           援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
-          "C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w93963\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_421c6.dir\\Debug\\cmTC_421c6.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1hct5f\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_5c676.dir\\Debug\\cmTC_5c676.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
         InitializeBuildStatus:
-          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_421c6.dir\\Debug\\cmTC_421c6.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_421c6.dir\\Debug\\cmTC_421c6.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_5c676.dir\\Debug\\cmTC_5c676.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_5c676.dir\\Debug\\cmTC_5c676.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_421c6.dir\\Debug\\\\" /Fd"cmTC_421c6.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_5c676.dir\\Debug\\\\" /Fd"cmTC_5c676.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.44.35220(x64)
           Copyright (c) Microsoft Corporation. All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_421c6.dir\\Debug\\\\" /Fd"cmTC_421c6.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_5c676.dir\\Debug\\\\" /Fd"cmTC_5c676.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w93963\\Debug\\cmTC_421c6.exe" /INCREMENTAL /ILK:"cmTC_421c6.dir\\Debug\\cmTC_421c6.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-w93963/Debug/cmTC_421c6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-w93963/Debug/cmTC_421c6.lib" /MACHINE:X64  /machine:x64 cmTC_421c6.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_421c6.vcxproj -> C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w93963\\Debug\\cmTC_421c6.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1hct5f\\Debug\\cmTC_5c676.exe" /INCREMENTAL /ILK:"cmTC_5c676.dir\\Debug\\cmTC_5c676.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-1hct5f/Debug/cmTC_5c676.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/works/ethercat/build/CMakeFiles/CMakeScratch/TryCompile-1hct5f/Debug/cmTC_5c676.lib" /MACHINE:X64  /machine:x64 cmTC_5c676.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_5c676.vcxproj -> C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1hct5f\\Debug\\cmTC_5c676.exe
         FinalizeBuildStatus:
-          "cmTC_421c6.dir\\Debug\\cmTC_421c6.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
-          "cmTC_421c6.dir\\Debug\\cmTC_421c6.tlog\\cmTC_421c6.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
-        "C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w93963\\cmTC_421c6.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+          "cmTC_5c676.dir\\Debug\\cmTC_5c676.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_5c676.dir\\Debug\\cmTC_5c676.tlog\\cmTC_5c676.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\works\\ethercat\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1hct5f\\cmTC_5c676.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
         
         鍮뚮뱶?덉뒿?덈떎.
             寃쎄퀬 0媛?
             ?ㅻ쪟 0媛?
         
-        寃쎄낵 ?쒓컙: 00:00:00.48
+        寃쎄낵 ?쒓컙: 00:00:00.55
         
       exitCode: 0
   -
